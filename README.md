@@ -1,1 +1,1 @@
-# LSTM-based_stock_market-_prediction
+A stock price prediction model using of an LSTM model. The stock prices are predicted on the basis of past information. LSTM is an ideal technique for stock market prediction due to its dynamic as well as complex nature. In particular, Stacked LSTM are employed for the prediction because they utilize the historic or time-series data, making it capable of learning long term dependencies in the data and therefore making the predictions more accurate.  After training the model the stock prices for the next 30 days were forecasted.
